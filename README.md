@@ -8,7 +8,7 @@ This repository contains the files needed to view the sales performance dashboar
 - README.md : This file
 
 ## Overwiew of the dashboard demo
-[Watch the Demo and read the insights](https://bit.ly/4c3FrKY)
+[Watch the Demo and read the insights](https://www.linkedin.com/posts/cabrel-gangbe-7bb1b8185_businessintelligence-businessstrategy-activity-7128693815070093312-8zgb?utm_source=share&utm_medium=member_desktop)
 
 ## Instructions
 1- Download the dashboard file
